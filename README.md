@@ -60,7 +60,7 @@ Training a deep learning model can be computationally intensive, especially with
 
 ## How to Use for Automatic Rotation Correctiion
 
-1. Adjust the following variables in the code as needed:
+1. Adjust the following variables in the file TF_AutoRotate.py as needed:
 
    - `model.h5`: Replace with the path to your trained model file (`model.h5` is a placeholder).
    - `TestData/*.png`, `TestData/*.jpg`, `TestData/*.jpeg`: Modify the file paths to match your test image directory.

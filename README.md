@@ -89,7 +89,7 @@ The Model Predicts the angle that the image is rotated NOT THE ANGLE NEEDED TO C
 
 # Pretrained Model
 
-Please use the model ```model.h5``` for your use cases and note the above class output for your use case.
+Please download the model [```model.h5```](https://drive.google.com/file/d/16FujdiisfmapFkC55mwjRTIKwHWJbolj/view?usp=sharing) for your use cases and note the above class output for your use case.
 
 ## Dataset
 The dataset used for training and validation was a 300,000 image subset of the Instagram dataset, agumented as mentioned in the above Dataset section. [Kaggle Link](https://www.kaggle.com/datasets/shmalex/instagram-images) The Dataset was split 80% for training, 20% validation. 

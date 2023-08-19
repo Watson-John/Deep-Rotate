@@ -92,7 +92,7 @@ The Model Predicts the angle that the image is rotated NOT THE ANGLE NEEDED TO C
 Please download the model [```model.h5```](https://drive.google.com/file/d/16FujdiisfmapFkC55mwjRTIKwHWJbolj/view?usp=sharing) for your use cases and note the above class output for your use case.
 
 ## Dataset
-The dataset used for training and validation was a 300,000 image subset of the Instagram dataset, agumented as mentioned in the above Dataset section. [Kaggle Link](https://www.kaggle.com/datasets/shmalex/instagram-images) The Dataset was split 80% for training, 20% validation. 
+The dataset used for training and validation was a 292k image subset of the Instagram dataset, agumented as mentioned in the above Dataset section. [Kaggle Link](https://www.kaggle.com/datasets/watson221b/instagram-subset) The Dataset was split 80% for training, 20% validation. 
 
 ## Accuracy
 | DataSet      |Accuracy | Loss|
@@ -101,7 +101,6 @@ The dataset used for training and validation was a 300,000 image subset of the I
 | COCO2017 Test Data |  0.89958       |2.46999
 | Personal Family Photos (2,000)| 0.85767| 1.07506
 
-Based on testing with my own family photos the accuracy is high for general personal photos.
 
 ## Model Architecture
 
